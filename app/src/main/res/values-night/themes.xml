@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyRestaurant" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:navigationBarColor">@color/blackTint</item>
+        <item name="android:statusBarColor">@color/blackTint</item>
+        <item name="android:colorPrimary">@color/blackTint</item>
+
+
+    </style>
+    <style name="splash_screen" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash</item>
+        <item name="android:statusBarColor">@color/blackTint</item>
+        <item name="android:navigationBarColor">@color/blackTint</item>
+    </style>
+
+</resources>
